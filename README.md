@@ -1,13 +1,26 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+## Hi! Welcome to my website. This is where I create tools for people to help boost their school productivity.
+## Below is a big list of programs (that aren't made by me). In the CODE folder, there's a couple made by others but there will be some made by me soon. The list below is not my work. It is the work of rahulkapoor90. Please consider supporting him on GitHub. Also, anything in the 'OPENSOURCE' folder is yours to enjoy.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+## How do I run code that's in the CODE folder or the OPENSOURCE folder?
+
+Well, **every single thing you need to run it will be stated.** However, here's **my list of recommendations for IDEs based on what programming language the app is written in. You don't need to know anything about code to use these.**
+
+## If the program uses Python...
+
+First install anything it says you need and install Python 3 from the **official** website.
+
+## If it's C#/C++...
+
+Use **Microsoft Visual Studio**.
+
+## And finally, if it's anything else...
+
+Use the IDE recommended by the people who made the language.
+
 
 > An awesome & curated list of best applications and tools for Windows.
 
 > *Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
-
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
