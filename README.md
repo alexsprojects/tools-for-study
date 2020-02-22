@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/alexsprojects/tools-for-study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my repo for things I have found or things I have made to support your learning and my own.
+The repo might not have anything in it yet, that's ok, just bear with me.
+If a resource I find is code-based, you will find a link to the repo it is hosted on  in the README.md and the code inside the 'Code' folder in this repo.
+If a resource I find is website-based, you'll find the link in the README.md .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Websites
 
-### Markdown
+1. scholar.google.com
+  Google Scholar is a website where you can find thousands of creditable academic papers. However, always cross-check your findings.
+  
+  (More to come)
+  
+## Programs and Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A quick heads-up for programs and tools: you will need a few prerequisites. The one thing you will **need** for every single code-based project on here is **Visual Studio**. Really most IDEs would be fine, however I recommend you use Visual Studio as it is what I have used to test/modify these programs. I will always credit the original creator. If you have no expierience in the field of code, you can see a tutorial on how to run the programs at the bottom of the README.md . (The README is what you're looking at now.)
 
-```markdown
-Syntax highlighted code block
+## Hey, I need Visual Studio for all the code programs. How do I get it and run the tools?
 
-# Header 1
-## Header 2
-### Header 3
+First of all, and I can not stress this enough, **FOLLOW THIS TUTORIAL WORD FOR WORD.** If a program does not work, it is because you have not followed the correct instructions (among other things).
 
-- Bulleted
-- List
+1. **Download Microsoft Visual Studio Community.** It's free.
+2. **I recommend signing in to a Microsoft account and installing all the frameworks and suport such as .NET (for C# programs) and Python.** You don't have to, however. Everything you might need to install will be mentioned in the file containing the code.
+3. **Copy and paste the code from the repo into a new solution/project.** Ensure you are using the correct settings for the code I have provided. 
+4. **Save the solution.** File > Save All
+5. **Press Run.** You'll find it at the top of the screen.
+6. **The program should run.** If there are any compiling errors or syntax errors or **anything annoying like that**, feel free to contact me or comment in the repo.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexsprojects/tools-for-study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## **IMPORTANT: FOR MOST PROGRAMS, I WILL LINK A VISUAL STUDIO SOLUTION I HAVE PREPARED FOR YOU. THIS TUTORIAL IS ONLY FOR THe ONES WHERE I HAVE FORGOTTEN OR COULD NOT CREATE ONE.**
