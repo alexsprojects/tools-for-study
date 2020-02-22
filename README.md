@@ -16,6 +16,9 @@ If a resource I find is website-based, you'll find the link in the README.md .
 
 A quick heads-up for programs and tools: you will need a few prerequisites. The one thing you will **need** for every single code-based project on here is **Visual Studio**. Really most IDEs would be fine, however I recommend you use Visual Studio as it is what I have used to test/modify these programs. I will always credit the original creator. If you have no expierience in the field of code, you can see a tutorial on how to run the programs at the bottom of the README.md . (The README is what you're looking at now.)
 
+1. If you have smart lights, this **Python** script is for you.
+  Code is in CODE branch I beleive and a link to the OG is here https://github.com/KpaBap/hue-flux .
+
 ## Hey, I need Visual Studio for all the code programs. How do I get it and run the tools?
 
 First of all, and I can not stress this enough, **FOLLOW THIS TUTORIAL WORD FOR WORD.** If a program does not work, it is because you have not followed the correct instructions (among other things).
