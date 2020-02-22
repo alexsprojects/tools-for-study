@@ -3,7 +3,7 @@
 Welcome to my repo for things I have found or things I have made to support your learning and my own.
 The repo might not have anything in it yet, that's ok, just bear with me.
 If a resource I find is code-based, you will find a link to the repo it is hosted on  in the README.md and the code inside the 'Code' folder in this repo.
-If a resource I find is website-based, you'll find the link in the README.md .
+If a resource I find is website-based, you'll find the link in the README.md . If you happen to be reading this on my website, assignment.tools, please view this on GitHub instead. A link is at **the top of the site**. A mega-list of programs that **are not open-source** but are great is in it's own folder on GitHub, called 'MEGALIST'. It's not made by me, credit is given in the file. I will be making my own programs on here from now own, however I will keep all the old ones I've uploaded from others.
 
 ## Websites
 
