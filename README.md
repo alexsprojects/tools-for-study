@@ -17,6 +17,10 @@ Use **Microsoft Visual Studio**.
 
 Use the IDE recommended by the people who made the language.
 
+## Here's some links for big programs that I can't cram into a single script (dependencies and all that boring stuff make it impossible)
+
+https://github.com/hluk/CopyQ - **The only clipboard manager you'll ever need.**
+
 
 > An awesome & curated list of best applications and tools for Windows.
 
