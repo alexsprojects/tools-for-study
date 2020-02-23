@@ -21,6 +21,9 @@ Use the IDE recommended by the people who made the language.
 
 https://github.com/hluk/CopyQ - **The only clipboard manager you'll ever need.**
 
+educative.io is a great place to learn almost anything computer. Plus, if you're a student, you can get a free 6 months of access through the **GitHub Student Dev Pack**. Here's my fav course that I have been using to understand Bitcoin:
+https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric
+
 
 > An awesome & curated list of best applications and tools for Windows.
 
